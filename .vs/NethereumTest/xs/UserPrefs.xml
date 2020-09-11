@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A5C9A8F6-4760-481A-A510-C90ACF77B718}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NethereumTest/Program.cs">
+    <Files>
+      <File FileName="NethereumTest/Program.cs" Line="63" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NethereumTest" expanded="True">
+            <Node name="NethereumTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NethereumTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
